@@ -5,8 +5,8 @@
     
     <entry>
       <title>测试用博客标题</title>
-      <link href="/2020/07/31/ce-shi-yong-bo-ke-biao-ti/"/>
-      <url>/2020/07/31/ce-shi-yong-bo-ke-biao-ti/</url>
+      <link href="/2020/07/31/test/"/>
+      <url>/2020/07/31/test/</url>
       
         <content type="html"><![CDATA[<p>这里是文章的正文哦，用来测试看看！</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
@@ -21,8 +21,6 @@
         <tags>
             
             <tag> 机器人 </tag>
-            
-            <tag> 环境搭建 </tag>
             
         </tags>
       
