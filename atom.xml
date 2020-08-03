@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fateymj&#39;s   Island</title>
+  <title>Fateymj Island</title>
   <icon>https://www.gravatar.com/avatar/f3528741b4eb3c6025da13443bc1e12b</icon>
   <subtitle>IT Technology</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="blog.yuexiaqingling.com/"/>
+  <link href="blog.yuexiaqinglingzhuan.com/"/>
   <updated>2020-08-01T01:38:58.200Z</updated>
-  <id>blog.yuexiaqingling.com/</id>
+  <id>blog.yuexiaqinglingzhuan.com/</id>
   
   <author>
     <name>Fateymj</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试用博客标题</title>
-    <link href="blog.yuexiaqingling.com/2020/07/31/ce-shi-yong-bo-ke-biao-ti/"/>
-    <id>blog.yuexiaqingling.com/2020/07/31/ce-shi-yong-bo-ke-biao-ti/</id>
+    <link href="blog.yuexiaqinglingzhuan.com/2020/07/31/ce-shi-yong-bo-ke-biao-ti/"/>
+    <id>blog.yuexiaqinglingzhuan.com/2020/07/31/ce-shi-yong-bo-ke-biao-ti/</id>
     <published>2020-07-31T02:50:58.000Z</published>
     <updated>2020-08-01T01:38:58.200Z</updated>
     
@@ -40,19 +40,19 @@
     </summary>
     
     
-      <category term="Linux" scheme="blog.yuexiaqingling.com/categories/Linux/"/>
+      <category term="Linux" scheme="blog.yuexiaqinglingzhuan.com/categories/Linux/"/>
     
     
-      <category term="机器人" scheme="blog.yuexiaqingling.com/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+      <category term="机器人" scheme="blog.yuexiaqinglingzhuan.com/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     
-      <category term="环境搭建" scheme="blog.yuexiaqingling.com/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+      <category term="环境搭建" scheme="blog.yuexiaqinglingzhuan.com/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="blog.yuexiaqingling.com/2020/07/30/hello-world/"/>
-    <id>blog.yuexiaqingling.com/2020/07/30/hello-world/</id>
+    <link href="blog.yuexiaqinglingzhuan.com/2020/07/30/hello-world/"/>
+    <id>blog.yuexiaqinglingzhuan.com/2020/07/30/hello-world/</id>
     <published>2020-07-30T09:44:34.785Z</published>
     <updated>2020-07-30T09:44:34.785Z</updated>
     
