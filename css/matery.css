@@ -268,7 +268,9 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    /* background-image: linear-gradient(to right, #EAD6EE 0%, #A0F1EA 100%); */
+	background: -webkit-linear-gradient(#1bbc9b, #1ba39c);
+    background: linear-gradient(#1bbc9b, #1ba39c);
 }
 
 .text-color {
