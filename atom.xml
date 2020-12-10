@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="blog.yuexiaqinglingzhuan.com/"/>
-  <updated>2020-12-10T06:39:54.763Z</updated>
+  <updated>2020-12-10T06:44:29.232Z</updated>
   <id>blog.yuexiaqinglingzhuan.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>使用QQmini框架与其插件实现一个随机发图QQ机人</title>
-    <link href="blog.yuexiaqinglingzhuan.com/2020/12/10/shi-yong-qqmini-kuang-jia-yu-qi-cha-jian-shi-xian-yi-ge-sui-ji-fa-tu-qq-ji-ren/"/>
-    <id>blog.yuexiaqinglingzhuan.com/2020/12/10/shi-yong-qqmini-kuang-jia-yu-qi-cha-jian-shi-xian-yi-ge-sui-ji-fa-tu-qq-ji-ren/</id>
+    <title>使用QQmini框架与其插件实现一个随机发图QQ机器人</title>
+    <link href="blog.yuexiaqinglingzhuan.com/2020/12/10/shi-yong-qqmini-kuang-jia-yu-qi-cha-jian-shi-xian-yi-ge-sui-ji-fa-tu-qq-ji-qi-ren/"/>
+    <id>blog.yuexiaqinglingzhuan.com/2020/12/10/shi-yong-qqmini-kuang-jia-yu-qi-cha-jian-shi-xian-yi-ge-sui-ji-fa-tu-qq-ji-qi-ren/</id>
     <published>2020-12-10T05:48:44.000Z</published>
-    <updated>2020-12-10T06:39:54.763Z</updated>
+    <updated>2020-12-10T06:44:29.232Z</updated>
     
     <summary type="html">
     
@@ -41,12 +41,12 @@
     </summary>
     
     
-      <category term="Robot" scheme="blog.yuexiaqinglingzhuan.com/categories/Robot/"/>
+      <category term="Robot，QQ机器人" scheme="blog.yuexiaqinglingzhuan.com/categories/Robot%EF%BC%8CQQ%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     
     
       <category term="QQmini" scheme="blog.yuexiaqinglingzhuan.com/tags/QQmini/"/>
     
-      <category term="Robot" scheme="blog.yuexiaqinglingzhuan.com/tags/Robot/"/>
+      <category term="Robot，QQ机器人" scheme="blog.yuexiaqinglingzhuan.com/tags/Robot%EF%BC%8CQQ%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     
   </entry>
   

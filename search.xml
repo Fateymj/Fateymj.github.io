@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>使用QQmini框架与其插件实现一个随机发图QQ机人</title>
-      <link href="/2020/12/10/shi-yong-qqmini-kuang-jia-yu-qi-cha-jian-shi-xian-yi-ge-sui-ji-fa-tu-qq-ji-ren/"/>
-      <url>/2020/12/10/shi-yong-qqmini-kuang-jia-yu-qi-cha-jian-shi-xian-yi-ge-sui-ji-fa-tu-qq-ji-ren/</url>
+      <title>使用QQmini框架与其插件实现一个随机发图QQ机器人</title>
+      <link href="/2020/12/10/shi-yong-qqmini-kuang-jia-yu-qi-cha-jian-shi-xian-yi-ge-sui-ji-fa-tu-qq-ji-qi-ren/"/>
+      <url>/2020/12/10/shi-yong-qqmini-kuang-jia-yu-qi-cha-jian-shi-xian-yi-ge-sui-ji-fa-tu-qq-ji-qi-ren/</url>
       
         <content type="html"><![CDATA[<p>文章推荐食用人群：对QQ机器人有兴趣的小白</p><p>目标：</p><pre><code> 1. 拥有一个可以监控群消息的机器人 2. 使用别人开发的插件在群内实现发图功能</code></pre><p>前期准备：</p><pre><code> 1. 下载QQminiAir软件（机器人框架）：https://qqmini.cc/ 2. 申请一个QQ小号，用于机器人登陆 3. 下载QQminiAir发图插件包，网盘链接：https://pan.baidu.com/s/1Fe00-MFr8_cDtYIRBuqENg ，提取码：a3su </code></pre><p>实操：</p><pre><code> 1. 解压下载好的QQMiniAir-Update压缩包，双击打开解压后的文件夹，在其中启动AirUpdate.exe进行一次框架更新 2. 打开QQMiniAir.exe，登陆刚才申请的QQ小号，等待软件日志提示登陆完成 3. 将我们下载的发图插件放到此处：本机安装路径\QQMiniAir-Update\Plugin（如我的是：D:\QQMiniAir-Update\Plugin） 4. 点击左侧拓展功能栏，此时右侧插件栏列表处还没有任何插件，在其中空白区域内右键选择添加插件，找到刚才路径中的【看图插件.MQ.dll】，确定载入 5. 此时插件栏列表会显示载入的看图插件，右击它再点击启用插件即可</code></pre><p>验证：</p><pre><code> 1. 因本插件为最简单基础的插件，默认关联并监听小号的所有群组，所以可以在任意小号所在群内测试 2. 测试方式：看 + 所想看内容（如：看美女）</code></pre><p>以上，感谢阅览，有兴趣的话可以加微信公众号：，持续关注我后续的创作内容！</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
           
-          <category> Robot </category>
+          <category> Robot，QQ机器人 </category>
           
       </categories>
       
@@ -22,7 +22,7 @@
             
             <tag> QQmini </tag>
             
-            <tag> Robot </tag>
+            <tag> Robot，QQ机器人 </tag>
             
         </tags>
       
